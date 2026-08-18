@@ -37,6 +37,8 @@
 
 I'm a Rust developer passionate about building high-performance tools and game-related projects. I love exploring modular architectures, async systems, and server management frameworks. 
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=genkii&langs_count=6&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=genkii&langs_count=6&hide_values=true&theme=dark)
+
 ## Skills & Tools
 
 - Rust (main language)  
